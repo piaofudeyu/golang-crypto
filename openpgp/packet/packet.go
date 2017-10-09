@@ -11,8 +11,8 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/des"
-	"golang.org/x/crypto/cast5"
-	"golang.org/x/crypto/openpgp/errors"
+	"github.com/golang/crypto/cast5"
+	"github.com/golang/crypto/openpgp/errors"
 	"io"
 	"math/big"
 )

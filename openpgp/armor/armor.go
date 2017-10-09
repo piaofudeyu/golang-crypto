@@ -10,7 +10,7 @@ import (
 	"bufio"
 	"bytes"
 	"encoding/base64"
-	"golang.org/x/crypto/openpgp/errors"
+	"github.com/golang/crypto/openpgp/errors"
 	"io"
 )
 

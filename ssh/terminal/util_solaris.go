@@ -7,7 +7,7 @@
 package terminal // import "golang.org/x/crypto/ssh/terminal"
 
 import (
-	"golang.org/x/sys/unix"
+	"github.com/golang/sys/unix"
 	"io"
 	"syscall"
 )

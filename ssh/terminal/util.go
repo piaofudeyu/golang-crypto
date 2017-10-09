@@ -20,7 +20,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"golang.org/x/sys/unix"
+	"github.com/golang/sys/unix"
 )
 
 // State contains the state of a terminal.

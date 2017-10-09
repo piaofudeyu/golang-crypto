@@ -17,7 +17,7 @@
 package terminal
 
 import (
-	"golang.org/x/sys/windows"
+	"github.com/golang/sys/windows"
 )
 
 type State struct {
