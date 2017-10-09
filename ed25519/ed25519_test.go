@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/golang/crypto/ed25519/internal/edwards25519"
+	"github.com/qd-um/golang-crypto/ed25519/internal/edwards25519"
 )
 
 type zeroReader struct{}

@@ -20,7 +20,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/golang/crypto/ssh"
+	"github.com/qd-um/golang-crypto/ssh"
 )
 
 // See the sshd manpage

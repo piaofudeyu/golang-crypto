@@ -7,8 +7,8 @@ package chacha20poly1305
 import (
 	"encoding/binary"
 
-	"github.com/golang/crypto/chacha20poly1305/internal/chacha20"
-	"github.com/golang/crypto/poly1305"
+	"github.com/qd-um/golang-crypto/chacha20poly1305/internal/chacha20"
+	"github.com/qd-um/golang-crypto/poly1305"
 )
 
 func roundTo16(n int) int {

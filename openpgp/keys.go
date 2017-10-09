@@ -9,9 +9,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/golang/crypto/openpgp/armor"
-	"github.com/golang/crypto/openpgp/errors"
-	"github.com/golang/crypto/openpgp/packet"
+	"github.com/qd-um/golang-crypto/openpgp/armor"
+	"github.com/qd-um/golang-crypto/openpgp/errors"
+	"github.com/qd-um/golang-crypto/openpgp/packet"
 )
 
 // PublicKeyType is the armor type for a PGP public key.

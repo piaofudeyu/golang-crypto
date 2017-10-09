@@ -16,7 +16,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/golang/crypto/ssh/terminal"
+	"github.com/qd-um/golang-crypto/ssh/terminal"
 )
 
 type serverType func(Channel, <-chan *Request, *testing.T)

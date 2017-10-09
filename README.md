@@ -4,7 +4,7 @@ This repository holds supplementary Go cryptography libraries.
 
 ## Download/Install
 
-The easiest way to install is to run `go get -u github.com/golang/crypto/...`. You
+The easiest way to install is to run `go get -u github.com/qd-um/golang-crypto/...`. You
 can also manually git clone the repository to `$GOPATH/src/github.com/golang/crypto`.
 
 ## Report Issues / Send Patches

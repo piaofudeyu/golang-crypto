@@ -25,8 +25,8 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/golang/crypto/ed25519"
-	"github.com/golang/crypto/ssh"
+	"github.com/qd-um/golang-crypto/ed25519"
+	"github.com/qd-um/golang-crypto/ssh"
 )
 
 // Agent represents the capabilities of an ssh-agent.

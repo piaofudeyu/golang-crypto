@@ -10,7 +10,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/golang/crypto/ssh"
+	"github.com/qd-um/golang-crypto/ssh"
 )
 
 // RequestAgentForwarding sets up agent forwarding for the session.
